@@ -1,7 +1,7 @@
 # Colorization
 A Python UI that allows for an end user to colourize old black and white images to RGB colour.
 
-Due to GitHub limitations on file size imports, a necessary component of the program has been uploaded to a personal Google Drive. You must download it inorder for the program to function.
+Due to GitHub limitations on file size imports, a necessary component of the program has been uploaded to a personal Google Drive. You must download it in order for the program to function.
 
 
 To run this program: 
